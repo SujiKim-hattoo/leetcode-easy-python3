@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3778-transform-array-by-parity](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -30,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1635-number-of-good-pairs) |
+| [3778-transform-array-by-parity](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/3778-transform-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
