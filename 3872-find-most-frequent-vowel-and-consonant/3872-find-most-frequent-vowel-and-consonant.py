@@ -1,7 +1,7 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
-        vowel_dic = {'null': 0}
-        consonant_dic = {'null': 0}
+        vowel_dic = {}
+        consonant_dic = {}
         
         for char in s:
             if char in 'aeiou':  # vowel
