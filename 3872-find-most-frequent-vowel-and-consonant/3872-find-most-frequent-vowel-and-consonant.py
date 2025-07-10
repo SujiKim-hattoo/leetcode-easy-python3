@@ -4,7 +4,7 @@ class Solution:
         consonant_dic = {'null': 0}
         
         for char in s:
-            if char in ['a', 'e', 'i', 'o', 'u']:  # vowel
+            if char in 'aeiou':  # vowel
                 if char not in vowel_dic:
                     vowel_dic[char] = 1
                 else:
