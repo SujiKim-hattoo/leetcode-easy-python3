@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
