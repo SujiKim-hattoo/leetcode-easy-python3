@@ -3,6 +3,6 @@ class Solution:
         command = command.replace('()','o')
         command = command.replace('(al)','al')
 
-        return "".join(command)
+        return command
 
         
