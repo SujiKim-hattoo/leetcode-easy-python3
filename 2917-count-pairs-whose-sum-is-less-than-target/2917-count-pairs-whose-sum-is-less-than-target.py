@@ -3,6 +3,7 @@ class Solution:
         count = 0
         nums.sort()
         
+        # <third try> _ Memory 17.69MB
         for i in range(len(nums)):
             j = i + 1
             while (j < len(nums)) and (nums[i] + nums[j] < target):
