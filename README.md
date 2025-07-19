@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2058-concatenation-of-array](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3811-reverse-degree-of-a-string](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3811-reverse-degree-of-a-string](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
