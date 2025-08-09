@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/0001-two-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1635-number-of-good-pairs) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SujiKim-hattoo/leetcode-python3/tree/master/1786-count-the-number-of-consistent-strings) |
