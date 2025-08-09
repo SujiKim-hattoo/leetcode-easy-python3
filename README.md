@@ -1,3 +1,26 @@
+# My Coding Test Journey with Python
+
+Welcome! This repository is my personal collection of solved coding challenges, primarily from [LeetCode](https://leetcode.com/problemset/). It serves as a log of my progress and a demonstration of my problem-solving skills using Python 3.
+
+## 🎯 Purpose & Goals
+
+The main goal of this repository is to:
+* **Master Data Structures & Algorithms:** Solidify my understanding of fundamental concepts through hands-on practice.
+* **Develop Clean Code:** Write solutions that are not only efficient but also readable and well-documented.
+* **Track My Progress:** Document my journey from initial thoughts and brute-force attempts to optimized, elegant solutions.
+
+This project is a key part of my preparation for technical interviews and my continuous growth as a developer.
+
+## 💡 Featured Write-ups
+
+Here are a few posts that best showcase my problem-solving process:
+
+* **[Two Sum: From O(n²) to O(n) with a Dictionary](https://velog.io/@sujikim-hattoo/LeetCode-1-Two-Sum-From-On-to-On-with-a-Dictionary)**: A deep dive into why choosing the right data structure is crucial for performance.
+* _(Add another impressive post here when you write it!)_
+
+➡️ **[See the full collection of my Coding Test articles here...](https://velog.io/@sujikim-hattoo/series/Coding-Tests)**
+
+---
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
